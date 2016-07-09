@@ -11,7 +11,7 @@ body {
 
 	background-color: white;
 	height: 100%;
-	width: 1024px;
+	width: 53.333333333333336%;
 	margin-left: auto;
 	margin-right: auto;
 
@@ -20,15 +20,15 @@ body {
 #header-div {
 
 	background-color: #0a4c87;
-	height: 60px;
+	height: 5.555555555555555%;
 	width: 100%;
 
 }
 
 #header-content {
 
-	height: 60px;
-	width: 1024px;
+	height: 5.555555555555555%;
+	width: 53.333333333333336%;
 	margin-left: auto;
 	margin-right: auto;
 
@@ -43,14 +43,14 @@ body {
 #sections-div {
 
 	background-image: url("../image/background/sections.png");
-	height: 50px;
+	height: 4.62962962962963%;
 	width: 100%;
 
 }
 
 #sections-content {
 
-	height: 50px;
+	height: 4.62962962962963%;
 	width: 100%;
 
 }
@@ -61,9 +61,9 @@ body {
 	color: white;
 	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
-	padding: 9.5px;
-	padding-left: 95px;
-	padding-right: 96.5px;
+	padding: 0.8796296296296297%;
+	padding-left: 4.947916666666666%;
+	padding-right: 5.026041666666667%;
 	background-color: transparent;
 	
 }
