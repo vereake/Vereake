@@ -61,7 +61,7 @@ body {
 	color: white;
 	font-family: 'Roboto', sans-serif;
 	font-size: 25px;
-	padding: 0.8796296296296297%;
+	padding: calc(0.008796296296296297 * 100vh);
 	padding-left: 4.947916666666666%;
 	padding-right: 5.026041666666667%;
 	background-color: transparent;
